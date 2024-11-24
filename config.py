@@ -35,7 +35,7 @@ class Txt(object):
     
 ➻ Use /tutorial Command To Know How To Use Me.
     
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By @STRONGEST_MARINE</b>"""
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
 
@@ -55,7 +55,7 @@ Use These Keywords To Setup Custom File Name
 <b>📢 Channel :</b> <a href='https://t.me/NewGeneration_Anime</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/STRONGEST_MARINE'>Jishu Developer</a>
     
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @STRONGEST_MARINE"""
 
     
     THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
